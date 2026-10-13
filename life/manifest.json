@@ -1,62 +1,110 @@
 [
  {
   "src": "life/ic-layout-lab.jpg",
-  "caption": "IC 版图设计实验",
+  "caption": {
+   "en": "IC layout design lab",
+   "zh": "IC 版图设计实验",
+   "ja": "IC レイアウト設計実験"
+  },
   "group": "lab"
  },
  {
   "src": "life/travel-1.jpg",
-  "caption": "出行",
+  "caption": {
+   "en": "A day out",
+   "zh": "出行",
+   "ja": "お出かけ"
+  },
   "group": "travel"
  },
  {
   "src": "life/travel-2.jpg",
-  "caption": "出行",
+  "caption": {
+   "en": "A day out",
+   "zh": "出行",
+   "ja": "お出かけ"
+  },
   "group": "travel"
  },
  {
   "src": "life/travel-3.jpg",
-  "caption": "出行",
+  "caption": {
+   "en": "A day out",
+   "zh": "出行",
+   "ja": "お出かけ"
+  },
   "group": "travel"
  },
  {
   "src": "life/travel-4.jpg",
-  "caption": "出行",
+  "caption": {
+   "en": "A day out",
+   "zh": "出行",
+   "ja": "お出かけ"
+  },
   "group": "travel"
  },
  {
   "src": "life/travel-5.jpg",
-  "caption": "出行",
+  "caption": {
+   "en": "A day out",
+   "zh": "出行",
+   "ja": "お出かけ"
+  },
   "group": "travel"
  },
  {
   "src": "life/travel-6.jpg",
-  "caption": "出行",
+  "caption": {
+   "en": "A day out",
+   "zh": "出行",
+   "ja": "お出かけ"
+  },
   "group": "travel"
  },
  {
   "src": "life/travel-7.jpg",
-  "caption": "出行",
+  "caption": {
+   "en": "A day out",
+   "zh": "出行",
+   "ja": "お出かけ"
+  },
   "group": "travel"
  },
  {
   "src": "life/library.jpg",
-  "caption": "图书馆自习",
+  "caption": {
+   "en": "Studying at the library",
+   "zh": "图书馆自习",
+   "ja": "図書館で自習"
+  },
   "group": "campus"
  },
  {
   "src": "life/hiking.jpg",
-  "caption": "爬山",
+  "caption": {
+   "en": "Hiking",
+   "zh": "爬山",
+   "ja": "ハイキング"
+  },
   "group": "travel"
  },
  {
   "src": "life/class-team.jpg",
-  "caption": "班委团建",
+  "caption": {
+   "en": "Class committee team-building",
+   "zh": "班委团建",
+   "ja": "クラス委員の親睦会"
+  },
   "group": "campus"
  },
  {
   "src": "life/birthday.jpg",
-  "caption": "生日",
+  "caption": {
+   "en": "Birthday celebration",
+   "zh": "生日",
+   "ja": "誕生日"
+  },
   "group": "campus"
  }
 ]
